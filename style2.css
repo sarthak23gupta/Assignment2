@@ -1,0 +1,97 @@
+.RecentDepositWithThreeDots{
+    display: flex;
+    margin-top: 10px;
+    width: 31vw;
+    /* border: 2px solid black; */
+    justify-content: space-between;
+    height: 40px;
+    flex-wrap: wrap;
+    /* background-color: #fff; */
+}
+
+.RecentDeposit p{
+    margin-top: 5px;
+    margin-left: 5px;
+    font-weight: bold;
+}
+
+.ThreeDots img{
+    /* border: 2px solid black; */
+    width: 20px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+ol{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.First{
+    /* border: 0.01px solid black; */
+    /* margin-top: -15px; */
+    /* margin-left: -40px; */
+    display: flex;
+    height: 37px;
+}
+
+.FirstVisaWithSymbol{
+    display: flex;
+    margin-left: 13px;
+}
+
+.FirstSymbol img{
+    border: 1px solid black;
+    margin-top: 5px;
+    width: 40px;
+}
+
+.FirstVisaEnding{
+    margin-top: 4px;
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+.FirstExp {
+    margin-top: -14px;
+    font-weight: 200;
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+.FirstPrice{
+    font-size: 13px;
+    /* border: 2px solid black; */
+    width: 60px;
+    margin-left: 190px;
+    margin-top: 10px;
+    color: green;
+}
+
+.ShowMore{
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: end;
+    margin-right: 20px;
+    margin-top: -10px;
+    padding-right: 10px;
+    font-weight: bold;
+    color: rgb(114, 114, 234);
+}
+
+body{
+    background-color: rgb(247, 247, 236);
+}
+
+.Main img{
+    border-radius: 10px;
+}
+
+.RightBottomPhoto{
+    margin-top: 10px;
+    border-radius: 10px;
+    height: 440px;
+}
+
+
